@@ -1,0 +1,4 @@
+# publish only the rendered page
+*
+!index.html
+!.gitignore
